@@ -7,4 +7,17 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## About Me
+Hello. My name is *Suvan Chatakondu* and I am from Aurora, Illinois. I am going to be a rising Senior at Metea Valley High School. I am very interested in Statistics and Data Science and I hope to major in something related to the field one day. I have a passion for watching shows and movies too.
 
+## About the Project
+*This project* is regarding a test of my Final Project.
+
+### Goals
+*My Goal is to learn about how to make a site for my final project.
+*My Goal is to make a pretty good first run so that my final project will look nice.
+  +However, I need to learn first.
+  
+"This is Data Science"  
+~Preceptor
+["Kane's Free High School Data Science Bootcamp"](https://bootcamp.davidkane.info)
